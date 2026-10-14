@@ -1,0 +1,12 @@
+# Carpetas de datos y configuraciones locales
+config/
+jellyfin/
+qbittorrent/
+prowlarr/
+jellyseerr/
+npm_data/
+npm_letsencrypt/
+
+# Secretos y variables
+.env
+*.log
